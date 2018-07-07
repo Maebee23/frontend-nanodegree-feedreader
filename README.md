@@ -11,7 +11,7 @@ Project 4 of Udacity's Front-End Web Development Nanodegree requires students to
 
 ## Requirements
 
-To view the application with working tests download this repository or follow this [link]().
+To view the application with working tests download this repository or follow this [link](https://maebee23.github.io/frontend-nanodegree-feedreader/).
 
 ## Dependencies
 
